@@ -1,0 +1,44 @@
+# requirements.txt
+# Núcleo del Asistente
+pandas==1.5.3
+numpy==1.24.3
+requests==2.28.2
+python-dotenv==1.0.0
+
+# Procesamiento de Datos
+gspread==5.8.0
+google-auth==2.17.3
+openpyxl==3.1.2
+sqlalchemy==2.0.19
+
+# Machine Learning
+scikit-learn==1.2.2
+prophet==1.1.1
+statsmodels==0.13.5
+tensorflow==2.13.0
+
+# Reportes y Visualización
+weasyprint==55.0
+jinja2==3.1.2
+plotly==5.9.0
+matplotlib==3.7.1
+
+# Desarrollo de Software 🆕
+docker==6.1.3
+paramiko==3.3.1
+google-cloud-run==0.7.0
+boto3==1.28.62
+radon==5.1.0
+pylint==2.17.5
+
+# Testing 🆕
+pytest==7.4.0
+pytest-cov==4.1.0
+coverage==7.3.1
+
+# Asistente Virtual
+pygame==2.5.0
+pyttsx3==2.90
+SpeechRecognition==3.10.0
+pyaudio==0.2.11
+Pillow==10.0.0
